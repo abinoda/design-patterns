@@ -2,7 +2,7 @@
 
 The Observer pattern allows you to build objects that know about the activities of other objects without having to tightly couple everything together in an unmanageable mess of code spaghetti. The Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 
-![](https://dl.dropboxusercontent.com/u/598519/Images/observer_pattern.png)
+![](assets/observer_pattern.png?raw=true)
 
 Let's look an example use case consisting of two types of objects, the ``Stock`` and the ``PotentialBuyer``. Let's suppose we are starting out with this code:
 

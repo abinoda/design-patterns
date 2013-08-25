@@ -8,7 +8,7 @@ Hook methods are non-abstract methods that can *optionally* be overridden -- hoo
 
 The Template Method pattern is a fancy way of saying that if you want to vary an algorithm, one way to do so is to code the invariant part in a base class and to encapsulate the variable parts in methods that are defined by subclasses.
 
-![](https://dl.dropboxusercontent.com/u/598519/Images/template_method_pattern.png)
+![](assets/template_method_pattern.png?raw=true)
 
 Here's a nice and simple example of using a template method:
 

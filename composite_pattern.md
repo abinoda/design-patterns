@@ -14,7 +14,7 @@ The Composite Pattern consists of:
 * ``leaf`` - represents leaf objects in the composition
 * ``composite`` - collections of subcomponents (leaf classes and/or composites). implements methods to manipulate children as well as all component methods, generally by delegating them to its children
 
-![](https://dl.dropboxusercontent.com/u/598519/Images/composite_pattern.png)
+![](assets/composite_pattern.png?raw=true)
 
 Below is an example:
 

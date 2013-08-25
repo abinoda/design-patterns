@@ -4,7 +4,7 @@ The strategy pattern is useful for situations where it is necessary to dynamical
 
 The Strategy Pattern consists of **strategies**, which are the interchangeable classes which encapsulate variants of a particular algorithm, and the **context** class, which utilizes these strategies. The context can choose different strategies at runtime depending on the situation.
 
-![](https://dl.dropboxusercontent.com/u/598519/Images/strategy_pattern.png)
+![](images/strategy_pattern.png?raw=true)
 
 Here is an example implementation of the Strategy Pattern:
 
